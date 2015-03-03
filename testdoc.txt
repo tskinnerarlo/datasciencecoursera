@@ -1,0 +1,2 @@
+This file is a test of my new datascience coursera git repository
+3/2/2015
